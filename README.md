@@ -9,6 +9,14 @@
   [![Windows](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
 </div>
 
+### BEFORE YOU RUN THESE CHANGE THE API KEY OF THE OPENAI, GEMINI AND GROK IN THE OPEN ROUNTER 
+
+TO RUN THIS USE THIS IN THE POWERSHELL OR TERMINAL 
+```
+cd C:\Users\USER\Desktop\personal_assistant; taskkill /im python.exe /f; .\.venv\Scripts\python Jarvis-Desktop-Voice-Assistant\Jarvis\jarvis.py
+```
+USE THIS COMMAND 
+
 ## 📋 Overview
 
 **Jarvis Desktop Voice Assistant** is an intelligent voice-controlled desktop assistant built with Python that can perform various tasks through voice commands. This project brings the concept of a personal AI assistant to your desktop, making daily computer tasks more convenient and automated.
